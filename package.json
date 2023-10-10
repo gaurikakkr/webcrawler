@@ -1,0 +1,23 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gaurikakkr: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@github.com/gaurikakkr/webcrawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaurikakkr/webcrawler/issues"
+  },
+  "homepage": "https://github.com/gaurikakkr/webcrawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
